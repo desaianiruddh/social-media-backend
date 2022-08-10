@@ -1,0 +1,30 @@
+{
+  "name": "social-media-app",
+  "version": "1.0.0",
+  "description": "MongoDB, Express, React, Node, GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desaianiruddh/Social-Media-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desaianiruddh/Social-Media-App/issues"
+  },
+  "homepage": "https://github.com/desaianiruddh/Social-Media-App#readme",
+  "dependencies": {
+    "apollo-server": "^3.8.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^16.5.0",
+    "graphql-subscriptions": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16"
+  }
+}

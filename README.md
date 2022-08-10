@@ -1,2 +1,2 @@
-# social-media-backend
-GraphQL, Express
+# Social-Media-App
+MongoDB, Express, React, Node, GraphQL
